@@ -1,0 +1,43 @@
+.login-input{
+    background-color: rgba(216, 216, 216,0.5);
+    width:86%;
+    border-radius: 15px;
+    padding:1px 10px;
+    font-size:19px;
+    color:black;
+    border:1px solid rgba(0, 0, 0,0.3);
+}
+
+.login-input2{
+    background-color: rgba(216, 216, 216,0.5);
+    width:100%;
+    border-radius: 15px;
+    padding:1px 10px;
+    font-size:19px;
+    color:black;
+    border:1px solid rgba(0, 0, 0,0.3);
+}
+.login-input3{
+    background-color: transparent;
+    width:100%;
+    padding:1px 10px;
+    font-size:19px;
+    color:black;
+}
+.login-input4{
+    background-color: transparent;
+    width:100%;
+    padding:1px 10px;
+    font-size:15px;
+    color:black;
+}
+
+.login-signin{
+    background-color: #99ADFF;
+    max-width:280px;
+    padding:4px 3.6rem;
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+}
